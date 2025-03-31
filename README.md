@@ -1,4 +1,4 @@
-**miniRT**
+ ##miniRT
 
 miniRT is a compact ray tracer developed in C using the minilibx graphics library. The project implements a simplified version of a ray tracing engine capable of rendering 3D scenes composed of basic geometric primitives, 
 complete with lighting, shadows, and reflections.
