@@ -8,11 +8,6 @@ complete with lighting, shadows, and reflections.
 **Ray Tracing Algorithm**
 - Simulates light rays to generate realistic images with accurate lighting effects. 
 
-1. **Ray Tracing Algorithm**  
-   - Simulates light rays... 
-First list item
-   - First nested list item
-     - Second nested list item
 **Geometric Primitives** 
 -  Supports spheres, planes and cylinders.
   
