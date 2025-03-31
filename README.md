@@ -22,3 +22,5 @@ complete with lighting, shadows, and reflections.
 **Scene Configuration**
 - Parses scene descriptions from .rt configuration files.
 - Defines objects, lights, and camera settings via text-based input.
+
+### **Gallery**:
